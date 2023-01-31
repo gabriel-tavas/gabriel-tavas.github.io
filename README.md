@@ -7,15 +7,15 @@ Gabriel Tavas's Studies for the Master in Design for Distributed Innovation[]()
 
 *October to December 2022*
 
--   [Design tools 1]() . Exploring various digital tools
--   [Systems design studio 1]() . Started planning for a River Lab concept
+-   [Design tools 1]() . Explored various digital tools
+-   [Systems design studio 1]() . Started planning for a River Lab concept through the framework of the Fab City fullstack
 -   [Distributed design]() . Studied distributed design and wrote an article categorizing projects into three levels
 -   [Propagating collaboration]() . Designed an open-source dog house and sought collaborators for the project
--   [Bio base economies]() . Made a flax-agar utensil prototype
+-   [Bio-based economies]() . Made a flax-agar utensil prototype as part of a group project
 
 ### - Term 2 -[]()
 
-*January to march 2023*
+*January to March 2023*
 
 -   [Design tools 2]() . Exploring tools
 -   [Systems design studio 2]() . Started planning for a River Lab concept
