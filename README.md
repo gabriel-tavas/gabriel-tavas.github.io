@@ -1,9 +1,9 @@
-#Gabriel Tavas's Studies for the Master in Design for Distributed Innovation[]()
+Gabriel Tavas's Studies for the Master in Design for Distributed Innovation[]()
 ---------------------------------------------
 
 [About](https://annieferlatte.github.io/Doc/0_About.md)
 
-### - Part 1 -[](https://annieferlatte.github.io/#--part-1--)
+### - Part 1 -[]()
 
 *October to December 2022*
 
