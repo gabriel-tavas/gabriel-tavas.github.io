@@ -1,9 +1,9 @@
 Gabriel Tavas's Studies for the Master in Design for Distributed Innovation[]()
 ---------------------------------------------
 
-[About](https://annieferlatte.github.io/Doc/0_About.md)
+[About Gabriel](https://gabetavas.com)
 
-### - Part 1 -[]()
+### - Term 1 -[]()
 
 *October to December 2022*
 
@@ -13,7 +13,7 @@ Gabriel Tavas's Studies for the Master in Design for Distributed Innovation[]()
 -   [Propagating collaboration]() . Designed an open-source dog house and sought collaborators for the project
 -   [Bio base economies]() . Made a flax-agar utensil prototype
 
-### - Part 2 -[]()
+### - Term 2 -[]()
 
 *January to march 2023*
 
