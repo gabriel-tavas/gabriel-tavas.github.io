@@ -1,7 +1,8 @@
 Gabriel Tavas's Studies for the Master in Design for Distributed Innovation[]()
 ---------------------------------------------
 
-[About Gabriel](https://gabetavas.com)
+[Gabe's Personal Website](https://gabetavas.com)
+[And his final project for MDDI](http://gabetavas.tilda.ws/wetlands)
 
 ### - Term 1 -[]()
 
@@ -9,7 +10,7 @@ Gabriel Tavas's Studies for the Master in Design for Distributed Innovation[]()
 
 -   [Design tools 1]() . Explored various digital tools
 -   [Systems design studio 1]() . Started planning for a River Lab concept through the framework of the Fab City fullstack
--   [Distributed design]() . Studied distributed design and wrote an article categorizing projects into three levels
+-   [Distributed design](https://docs.google.com/document/d/1qM2mBoawyw1bZ9zepnmwE8eHLlTyj2S9R-tZgKPIIf4/edit?usp=drive_link) . Studied distributed design and wrote an article categorizing projects into three levels
 -   [Propagating collaboration](https://wikifactory.com/@gabetavas/modular-dog-house) . Designed an open-source dog house and sought collaborators for the project
 -   [Bio-based economies]() . Made a flax-agar utensil prototype as part of a group project
 
@@ -17,12 +18,12 @@ Gabriel Tavas's Studies for the Master in Design for Distributed Innovation[]()
 
 *January to March 2023*
 
--   [Design tools 2]() . Exploring various hard-tech tools
+-   [Design tools 2]() . Explored various hard-tech tools
 -   [Systems design studio 2](https://storymaps.arcgis.com/stories/ef65351b858442eca7af67aaf665ab51) . Planning for a River Lab concept
 -   [Distributed economies](https://drive.google.com/drive/folders/1ztcXg5qoDe6Mzb5DIpkQqhBkZCC4KZAE?usp=share_link) . Envisioned a cryptocurrency that is valued based on a river's ecological health
--   [Activating communities]() . TBD
--   [Human Bio-Interactions]() . TBD
--   [Bio-Design]() . TBD
+-   [Activating communities]() . A biweekly class covering general community engagement strategies
+-   [Human Bio-Interactions]() . A fascinating workshop on environmental analysis, which involved extracting DNA from organisms living in river bank soil.
+-   [Bio-Design]() . A workshop that involved tinkering with various biomaterials, including natural dyes and minerals.
 
 ### - Term 3 -[]()
 
