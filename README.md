@@ -23,3 +23,14 @@ Gabriel Tavas's Studies for the Master in Design for Distributed Innovation[]()
 -   [Activating communities]() . TBD
 -   [Human Bio-Interactions]() . TBD
 -   [Bio-Design]() . TBD
+
+### - Term 3 -[]()
+
+*March 2023 to June 2023*
+
+-   [Holistic Technologies](https://miro.com/app/board/uXjVMRk6Hjs=/) . Heard various case studies of technology applications and presented two low-tech case studies, wood-powered vehicles and air compression storage.
+-   [Systems design studio 3](http://gabetavas.tilda.ws/wetlands) . Consolidated my early ideation for the River Lab. I ended up pitching the idea of biobased wetlands, with mycelium serving as a platform for floating plants and mussels held within willow baskets so that they can filter river water.
+-   [Social, economical, and environmental impact evaluation](https://miro.com/app/board/uXjVMSSfHu8=/) . Developed a theory of change, problem tree, solution tree, logical framework, and data collection plan for my final project.
+-   [Design and Biotechnology](https://docs.google.com/presentation/d/1ExtryB5AjklswzHFLQI4o6WwN-2vkf6yOK5-Qjsf0UI/edit?usp=sharing) . Workshop that built up my final project and my knowledge of fermentation
+-   [Bioregions Matter](https://miro.com/app/board/uXjVMPC2NbI=/) . Closely studied the bioregion of Chicago in relation to my final project. Found willow tree populations.
+-   [Distributed Leadership]() . Ronald Sistek led a relaxed workshop in which I offered feedback for another classmate's project.
