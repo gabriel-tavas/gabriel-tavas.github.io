@@ -4,6 +4,7 @@ Gabriel Tavas's Studies for the Master in Design for Distributed Innovation[]()
 [Gabe's Personal Website](https://gabetavas.com)
 
 [Gabe's final project for MDDI](http://gabetavas.tilda.ws/wetlands)
+
 [![Watch the video](https://img.youtube.com/vi/jqIl4mgIdrc/0.jpg)](https://youtu.be/jqIl4mgIdrc)
 
 ### - Term 1 -[]()
